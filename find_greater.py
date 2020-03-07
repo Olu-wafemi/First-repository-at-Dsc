@@ -1,0 +1,1 @@
+print("The greater number is n+1")
