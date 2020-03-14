@@ -1,8 +1,20 @@
-vowel = ["a","e","i","o","u"]
-vowel_count = 0
+my_dict = {
 
-user = input("Enter a spelling: ")
-user =  user.lower()
-for i in vowel:
-        vowel_count += 1
-print("Number of vowel is {}". format(vowel_count))
+  "a": {
+
+    1: 2,
+
+    3: 4,
+
+    5: {
+
+      6: 7,
+
+      8: 9
+
+    }
+
+  }
+
+}
+print(my_dict.get(1))
