@@ -1,1 +1,3 @@
-print("The greater number is n+1")
+import numpy as np 
+m = np.eye(5)
+print(m)

@@ -11,3 +11,6 @@ def sum_of_values(my_dict,my_list): #Declares a sum_of_values function that acce
             
 my_dict = {"a":2,"b":3,"c":4}
 sum_of_values(my_dict,["d"])
+
+
+print(dir(l))
