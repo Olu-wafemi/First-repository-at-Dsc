@@ -13,4 +13,6 @@ my_dict = {"a":2,"b":3,"c":4}
 sum_of_values(my_dict,["d"])
 
 
-print(dir(l))
+
+j = [1,2,3,4,5,6]
+print(j[j[0]])
